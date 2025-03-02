@@ -1,0 +1,90 @@
+Dữ liệu phải thực tế, không quá "đẹp" (biểu đồ không lý tưởng hóa):
+
+Sản phẩm theo mùa vụ (nhiều vào mùa tương ứng, ví dụ Tết, hè).
+
+
+Nhiều đơn vào cuối năm, dịp sale (9.9, 11.11, 12.12).
+
+
+Đơn hủy từ COD chiếm nhiều hơn các phương thức khác.
+
+
+
+
+
+Giai đoạn đầu (5/2023) ít đơn, tăng dần, cao điểm vào sale và mùa.
+
+
+
+
+ Yêu cầu bổ sung về sản phẩm và thực tế:
+
+Dựa trên sản phẩm và giá thực tế từ Sunflower Shop (chủ yếu mỹ phẩm: son, kem, mặt nạ, phấn).
+
+
+Tên người mua dạng chiakim855, không dấu, thêm số, không dùng tên thật.
+
+
+Trả hàng: ~7%.
+
+
+Lý do hủy: "Tìm được sản phẩm tốt hơn/rẻ hơn", "Màu sắc/mùi hương khác mong đợi", "Sản phẩm không phù hợp với làn da", "Không còn nhu cầu", "Người bán tư vấn chậm".
+
+
+Lý do trả hàng: "Giao sai hàng", "Không như mong đợi", "Giao thiếu hàng", phàn nàn tự nhiên như người thật (ví dụ: "Giao sai màu, đặt đỏ giao hồng", "Hàng móp, không dùng được").
+
+
+
+
+ Tỷ lệ cụ thể:
+
+Hoàn thành: 78%.
+
+
+Hủy: 22%, COD chiếm 76% đơn hủy.
+
+
+Trả hàng: 7% (tính trong đơn hoàn thành).
+
+
+Thanh toán: COD ~60%, ShopeePay ~20%, SPayLater ~12%, Thẻ tín dụng ~8%.
+
+
+Vận chuyển: Nhanh-SPX Express ~65%, Nhanh-Giao Hàng Nhanh ~20%, Hỏa Tốc ~10%, Tiết kiệm-Viettel Post ~5% (giao chậm 2-5 ngày).
+
+
+
+
+ Sản phẩm nổi bật:
+
+"Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500ml":
+
+Lượt mua cao nhất vào 10-12/2023 và 2-4/2024 (trend).
+
+
+Tỷ lệ: 60% (10-12/2023), 55% (2-4/2024), 30-40% các tháng khác.
+
+
+
+
+
+Tổng cộng ~100 sản phẩm từ Sunflower Shop (son, kem, mặt nạ, phấn).
+
+
+
+
+ Phân bổ đơn hàng:
+
+Tháng đầu (5-9/2023): Số lẻ, không đều (532, 746, 915, 683, 847 đơn).
+
+
+Cao điểm sale: 9.9, 10.10, 11.11, 12.12 (tăng mạnh, ví dụ 11.11 ~4.000 đơn).
+
+
+Cuối tháng 12 và đầu tháng 1 (trước Tết Âm lịch): Cao điểm, tập trung 20-31/12 và 01-03/02 (2024) hoặc 01-18/01 (2025).
+
+
+25/12 ÂL - mùng 4 Tết: Giảm đơn (~200 đơn), giá tăng 20-30% (ví dụ Combo từ 299.000 lên 359.000-389.000 VND, ưu đãi từ 239.000 lên 275.000-299.000 VND).
+
+
+Sau Tết (mùng 5 trở đi): Ít đơn hơn.

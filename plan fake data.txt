@@ -1,0 +1,902 @@
+sử dụng python, thư viện faker
+
+
+tôi cần tạo dữ liệu đơn hàng shopee fake data trong mảng mỹ phẩm
+mục đích để phân tích hàng hoàn hủy
+tôi cần data việt nam, output trả về .csv file, chấp nhận trùng lặp thông tin đơn hàng, khách hàng
+mỗi dòng là chứa thông tin về cả sản phẩm trong đơn hàng nhé
+tôi cần 50000 dòng dữ liệu
+các thông tin metadata cần phải là tiếng việt, yêu cầu soạn ra mảng trước để sau random ra dữ liệu
+ví dụ trạng thái, lý do hoàn hủy, thông tin sản phẩm
+đây là sản phẩm trên web, hãy xem qua để tạo dữ liệu phù hợp
+Sắp xếp theo
+
+Giá
+1/5
+
+
+(Hàng mới về) XIXI Phấn Má Hồng XIXI 4 ô Nhũ Sáng Highlight Trang Điểm Tích Hợp Phấn Mắt Nhũ Lìbền màu makeup trangcustom-overlay
+(Hàng mới về) XIXI Phấn Má Hồng XIXI 4 ô Nhũ Sáng Highlight Trang Điểm Tích Hợp Phấn Mắt Nhũ Lìbền màu makeup trang
+₫
+41.000
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 1,8k
+1 Hộp Mặt Nạ Vitamin B5 Colorkey 10 Miếng Hổ Trợ Dưỡng Trắng, Sáng Da, Mền Dacustom-overlay
+1 Hộp Mặt Nạ Vitamin B5 Colorkey 10 Miếng Hổ Trợ Dưỡng Trắng, Sáng Da, Mền Da
+₫
+139.000
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 3,1k
+Combo dầu gội, dầu xả nước hoa muối biển Flowery 500mlcustom-overlay
+Combo dầu gội, dầu xả nước hoa muối biển Flowery 500ml
+₫
+136.000
+rating-star-full
+4.9
+Đã bán 11k
+Bộ Trang Điểm 17 Món Xixi Phiên Bản Nâng Cấp DNGSunflower93custom-overlay
+Bộ Trang Điểm 17 Món Xixi Phiên Bản Nâng Cấp DNGSunflower93
+₫
+387.000
+-34%
+Rẻ Vô Địch
+rating-star-full
+4.7
+Đã bán 1k
+VEECCI Phấn Tạo Khối Veecci Phấn Má Hồng Kèm Highlight Bắt Sáng 4 ô Sắc Tông Nude dễ dùng hàng ngày Tự Nhiên 9g kuromicustom-overlay
+VEECCI Phấn Tạo Khối Veecci Phấn Má Hồng Kèm Highlight Bắt Sáng 4 ô Sắc Tông Nude dễ dùng hàng ngày Tự Nhiên 9g kuromi
+₫
+90.000
+-40%
+rating-star-full
+4.8
+Đã bán 218
+Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500mlcustom-overlay
+Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500ml
+₫
+56.000
+-84%
+Rẻ Vô Địch
+rating-star-full
+4.8
+Đã bán 2,7k
+(Hàng mới về) Cushion Phấn Phủ Kết Hợp 2 Tầng GOGO TALES Vitalitycustom-overlay
+(Hàng mới về) Cushion Phấn Phủ Kết Hợp 2 Tầng GOGO TALES Vitality
+₫
+67.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 211
+Set kem nền 4 món MSMEESHU chính hãng, bộ trang điểmcustom-overlay
+Set kem nền 4 món MSMEESHU chính hãng, bộ trang điểm
+₫
+120.000
+Rẻ Vô Địch
+rating-star-full
+4.8
+Đã bán 6,1k
+(Chính hãng My Smile) Serum hiệu chỉnh trắng răng MY SMILE - Công nghệ V34 Hoa Kỳcustom-overlay
+(Chính hãng My Smile) Serum hiệu chỉnh trắng răng MY SMILE - Công nghệ V34 Hoa Kỳ
+₫
+39.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+4.8
+Đã bán 3,5k
+Bộ 13 Cọ Trang Điểm Lông Mềmcustom-overlay
+Bộ 13 Cọ Trang Điểm Lông Mềm
+₫
+38.400
+-40%
+rating-star-full
+4.9
+Đã bán 220
+XỊT KHÓA NỀN MAKEUP FIXER SPRAY GIỮ CHẶT LỚP TRANG ĐIỂMcustom-overlay
+XỊT KHÓA NỀN MAKEUP FIXER SPRAY GIỮ CHẶT LỚP TRANG ĐIỂM
+₫
+42.500
+-50%
+rating-star-full
+4.8
+Đã bán 248
+Set trang điểm đầy đủ 16 món bản nâng cấp 2024custom-overlay
+Set trang điểm đầy đủ 16 món bản nâng cấp 2024
+₫
+350.000
+rating-star-full
+4.7
+Đã bán 363
+Bút kẻ mắt XIXI ngòi mảnh 0.1mm, kẻ mắt nước dạng lỏng 4 màu sắc nét không trôi chống nướccustom-overlay
+Bút kẻ mắt XIXI ngòi mảnh 0.1mm, kẻ mắt nước dạng lỏng 4 màu sắc nét không trôi chống nước
+₫
+11.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+4.6
+Đã bán 212
+Dầu gội nước hoa muối biển Flowery 500mlcustom-overlay
+Dầu gội nước hoa muối biển Flowery 500ml
+₫
+79.800
+-40%
+rating-star-full
+4.9
+Đã bán 211
+Dầu Gội Đầu DEGO PHARMA 80ml Dứt Điểm Gàu Ngứa & Nấm Da Đầucustom-overlay
+Dầu Gội Đầu DEGO PHARMA 80ml Dứt Điểm Gàu Ngứa & Nấm Da Đầu
+₫
+320.000
+Rẻ Vô Địch
+Mua giá bán buôn/ bán sỉ
+rating-star-full
+4.9
+Đã bán 3,7k
+Sữa tắm dưỡng trắng Niacinamide - Unisex 500mlcustom-overlay
+Sữa tắm dưỡng trắng Niacinamide - Unisex 500ml
+₫
+110.000
+-50%
+Rẻ Vô Địch
+Mua giá bán buôn/ bán sỉ
+rating-star-full
+4.8
+Đã bán 153
+Mặt nạ dưỡng da LAB 101 Provitamin B5 dưỡng trắng, chống lão hoá, ngăn ngừa mụncustom-overlay
+Mặt nạ dưỡng da LAB 101 Provitamin B5 dưỡng trắng, chống lão hoá, ngăn ngừa mụn
+₫
+93.500
+-33%
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 252
+Serum hiệu chỉnh trắng răng My Smile - Công nghệ V34 Hoa Kỳcustom-overlay
+Serum hiệu chỉnh trắng răng My Smile - Công nghệ V34 Hoa Kỳ
+₫
+124.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 310
+Kem Đánh Răng HUNMUI - Kem Đánh Răng Dạng Gel Lỏng Thơm-Vệ Sinh Răng Miệng Không Hôi Miệngcustom-overlay
+Kem Đánh Răng HUNMUI - Kem Đánh Răng Dạng Gel Lỏng Thơm-Vệ Sinh Răng Miệng Không Hôi Miệng
+₫
+150.000
+Mua giá bán buôn/ bán sỉ
+rating-star-full
+4.7
+Đã bán 16,9k
+(Hàng mới về) Bảng mắt 9 ô secret garden gogo talescustom-overlay
+(Hàng mới về) Bảng mắt 9 ô secret garden gogo tales
+₫
+99.000
+-50%
+rating-star-full
+5.0
+Đã bán 12
+Combo 2 tẩy da chết body Dove siêu mịn màng và thơm mịn nội địa Trungcustom-overlay
+Combo 2 tẩy da chết body Dove siêu mịn màng và thơm mịn nội địa Trung
+₫
+60.000
+-50%
+rating-star-full
+4.7
+Đã bán 107
+Kem Tan Quầng Thâm Bọng Mắt Openeyescustom-overlay
+Kem Tan Quầng Thâm Bọng Mắt Openeyes
+₫
+180.000
+Rẻ Vô Địch
+rating-star-full
+4.8
+Đã bán 71
+(Hàng mới về) Kem lót Xixi, kem lót kiềm dầu dưỡng ẩm che khuyết điểm nội địa trungcustom-overlay
+(Hàng mới về) Kem lót Xixi, kem lót kiềm dầu dưỡng ẩm che khuyết điểm nội địa trung
+₫
+70.000
+rating-star-full
+4.8
+Đã bán 128
+Kẹp Mi Eyelash Curlen Nội địa Trungcustom-overlay
+Kẹp Mi Eyelash Curlen Nội địa Trung
+₫
+35.000
+rating-star-full
+4.9
+Đã bán 56
+[AHA] Sữa Dưỡng Thể AHA Skinmenu 500ml | Dưỡng Da Trắng Sáng, Ngừa Mụn Cơ Thể, Chống Lão Hóa, hàng mới nhà mìnhcustom-overlay
+[AHA] Sữa Dưỡng Thể AHA Skinmenu 500ml | Dưỡng Da Trắng Sáng, Ngừa Mụn Cơ Thể, Chống Lão Hóa, hàng mới nhà mình
+₫
+49.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+5.0
+Đã bán 107
+( Hàng mới về) Kem Ủ Trắng - Tắm Trắng HUNMUI dưỡng trắng da toàn thâncustom-overlay
+( Hàng mới về) Kem Ủ Trắng - Tắm Trắng HUNMUI dưỡng trắng da toàn thân
+₫
+42.500
+-50%
+rating-star-full
+4.7
+Đã bán 165
+(Hàng mới về) Phấn Phủ Bột GOGO TALES RAPT Kiềm Dầu Mỏng Nhẹ Chính Hãngcustom-overlay
+(Hàng mới về) Phấn Phủ Bột GOGO TALES RAPT Kiềm Dầu Mỏng Nhẹ Chính Hãng
+₫
+110.000
+rating-star-full
+4.8
+Đã bán 98
+Lược gỡ rối,tạo phồng tóc,lược sấy tạo kiểu tóc bán nguyệt cỡ lớncustom-overlay
+Lược gỡ rối,tạo phồng tóc,lược sấy tạo kiểu tóc bán nguyệt cỡ lớn
+₫
+38.000
+rating-star-full
+4.9
+Đã bán 366
+Mặt Nạ Sủi Bọt Thải Độc Cà Rốt (12 Gói) Cuốn Sạch Bụi Bẩn, Dầu Thừa, Giảm Mụn Đầu Đen, Detox Da Sáng Mịncustom-overlay
+Mặt Nạ Sủi Bọt Thải Độc Cà Rốt (12 Gói) Cuốn Sạch Bụi Bẩn, Dầu Thừa, Giảm Mụn Đầu Đen, Detox Da Sáng Mịn
+₫
+69.000
+rating-star-full
+4.8
+Đã bán 1,3k
+(NỘI ĐỊA THÁI) Viên kích trắng alpha arbutin Thái Lan New Uv Vỉ 10 Viên Hàng Thái Lan Chính Hãngcustom-overlay
+(NỘI ĐỊA THÁI) Viên kích trắng alpha arbutin Thái Lan New Uv Vỉ 10 Viên Hàng Thái Lan Chính Hãng
+₫
+75.000
+Đã bán 1
+Sắp xếp theo
+
+Giá
+2/5
+
+
+[Chính Hãng] Combo 2 Hộp Kem Đánh Răng hunmui - Kem Đánh Răng Dạng Gel Lỏng Thơm-Vệ Sinh Răng Miệng Không Hôi Miệngcustom-overlay
+[Chính Hãng] Combo 2 Hộp Kem Đánh Răng hunmui - Kem Đánh Răng Dạng Gel Lỏng Thơm-Vệ Sinh Răng Miệng Không Hôi Miệng
+₫
+300.000
+rating-star-full
+4.8
+Đã bán 1,1k
+Xixi Cọ Trang Điểm Đầu Dẹt Dày Dặn Mềm Mại Dễ Sử Dụngcustom-overlay
+Xixi Cọ Trang Điểm Đầu Dẹt Dày Dặn Mềm Mại Dễ Sử Dụng
+₫
+20.000
+-50%
+rating-star-full
+4.5
+Đã bán 28
+(Hàng mới về) Kem nền Xixi, kem nền nội địa trung kiềm dầucustom-overlay
+(Hàng mới về) Kem nền Xixi, kem nền nội địa trung kiềm dầu
+₫
+70.000
+Rẻ Vô Địch
+rating-star-full
+5.0
+Đã bán 21
+Chì kẻ mày SUAKE, kẻ mày không trôi đen nâu nội địa trung D21custom-overlay
+Chì kẻ mày SUAKE, kẻ mày không trôi đen nâu nội địa trung D21
+₫
+17.000
+Rẻ Vô Địch
+rating-star-full
+4.7
+Đã bán 275
+(Hàng mới về) Phấn mắt nhũ MINSHZEE và highlight bắt sáng lấp lánh siêu xinhcustom-overlay
+(Hàng mới về) Phấn mắt nhũ MINSHZEE và highlight bắt sáng lấp lánh siêu xinh
+₫
+20.000
+-50%
+Rẻ Vô Địch
+rating-star-full
+5.0
+Đã bán 24
+Mascara GlamColour Living Colorful Chải Mi Trên Và Dưới Cao Cấp E401pocustom-overlay
+Mascara GlamColour Living Colorful Chải Mi Trên Và Dưới Cao Cấp E401po
+₫
+60.000
+-50%
+rating-star-full
+4.8
+Đã bán 151
+Móc Khóa Hình Gấu Hoạt Hình Dễ Thươngcustom-overlay
+Móc Khóa Hình Gấu Hoạt Hình Dễ Thương
+₫
+29.000
+rating-star-full
+4.7
+Đã bán 124
+Kem Giảm Nám, Chống Nhăn Và Trẻ Hóa Da UCM Nhật Bảncustom-overlay
+Kem Giảm Nám, Chống Nhăn Và Trẻ Hóa Da UCM Nhật Bản
+₫
+169.000
+Mua giá bán buôn/ bán sỉ
+rating-star-full
+4.9
+Đã bán 1,1k
+Tuýp Tẩy da Tế Bào Chết Môi HEYXI Màu Cà Phê Dưỡng Ẩm Chăm Sóc Môicustom-overlay
+Tuýp Tẩy da Tế Bào Chết Môi HEYXI Màu Cà Phê Dưỡng Ẩm Chăm Sóc Môi
+₫
+45.000
+rating-star-full
+5.0
+Đã bán 15
+Hạt Giặt Viên Lưu Hương Quần Áo Xả Vải Thơm Tự Nhiên Dịu Nhẹ Lâu Phaicustom-overlay
+Hạt Giặt Viên Lưu Hương Quần Áo Xả Vải Thơm Tự Nhiên Dịu Nhẹ Lâu Phai
+₫
+45.000
+rating-star-full
+5.0
+Đã bán 73
+Bàn Chải Điện Tự Động Đánh Răng 5 Chế Độcustom-overlay
+Bàn Chải Điện Tự Động Đánh Răng 5 Chế Độ
+₫
+99.000
+rating-star-full
+4.8
+Đã bán 462
+Hộp 50 cây tăm chỉ nha khoa , tăm xỉa răng chăm sóc miệng PVN3602custom-overlay
+Hộp 50 cây tăm chỉ nha khoa , tăm xỉa răng chăm sóc miệng PVN3602
+₫
+30.000
+rating-star-full
+4.9
+Đã bán 1,1k
+(Hàng chuẩn) Kem Chống Nắng Trắng Da HEYXI Nâng Tone Dưỡng Ẩm SPF 50+custom-overlay
+(Hàng chuẩn) Kem Chống Nắng Trắng Da HEYXI Nâng Tone Dưỡng Ẩm SPF 50+
+₫
+75.000
+rating-star-full
+5.0
+Đã bán 4
+Mút tán kem nền, mút trang điểm A28custom-overlay
+Mút tán kem nền, mút trang điểm A28
+₫
+11.000
+rating-star-full
+4.8
+Đã bán 208
+Dầu xả nước hoa muối biển Flowery 500mlcustom-overlay
+Dầu xả nước hoa muối biển Flowery 500ml
+₫
+136.666
+rating-star-full
+5.0
+Đã bán 78
+Sét 3 cây son kem lì Hero Orange nội địa Trungcustom-overlay
+Sét 3 cây son kem lì Hero Orange nội địa Trung
+₫
+60.000
+-50%
+rating-star-full
+4.8
+Đã bán 38
+(Phiên bản mới nhất )Kẹo mầm sâm tố nữ Xmax Thảo Mộc 37custom-overlay
+(Phiên bản mới nhất )Kẹo mầm sâm tố nữ Xmax Thảo Mộc 37
+₫
+120.000
+cod-icon
+rating-star-full
+5.0
+Đã bán 479
+Kem dưỡng da tay Maycreatecustom-overlay
+Kem dưỡng da tay Maycreate
+₫
+45.000
+rating-star-full
+5.0
+Đã bán 22
+Móc chìa khóa hình gấu Disney pha lê nhiều màu tùy chọn dễ thươngcustom-overlay
+Móc chìa khóa hình gấu Disney pha lê nhiều màu tùy chọn dễ thương
+₫
+25.500
+rating-star-full
+4.9
+Đã bán 160
+(Mẫu mới) Má hồng dạng kem DAIMANPU, phấn má hồng nội địa trung F24custom-overlay
+(Mẫu mới) Má hồng dạng kem DAIMANPU, phấn má hồng nội địa trung F24
+₫
+40.000
+rating-star-full
+4.9
+Đã bán 54
+Kem Nền Che Khuyết Điểm Kiểm Soát Dầu Images Light Sensitivecustom-overlay
+Kem Nền Che Khuyết Điểm Kiểm Soát Dầu Images Light Sensitive
+₫
+75.000
+-50%
+rating-star-full
+4.9
+Đã bán 112
+(Hàng mới) Bảng phấn mắt K'APEINE, phấn mắt nội địa trung 25 ô makeup tông cam hồng đào C5 - Sammi beautycustom-overlay
+(Hàng mới) Bảng phấn mắt K'APEINE, phấn mắt nội địa trung 25 ô makeup tông cam hồng đào C5 - Sammi beauty
+₫
+60.000
+rating-star-full
+4.7
+Đã bán 363
+Phấn má PIPL, bảng phấn má hồng 3 ô nội địa trung tông cam hồng đào hàng mới vềcustom-overlay
+Phấn má PIPL, bảng phấn má hồng 3 ô nội địa trung tông cam hồng đào hàng mới về
+₫
+50.000
+rating-star-full
+4.8
+Đã bán 29
+Sữa dưỡng thể dưỡng ẩm làm trắng Niacinamide - Unisex 500mlcustom-overlay
+Sữa dưỡng thể dưỡng ẩm làm trắng Niacinamide - Unisex 500ml
+₫
+230.000
+Mua giá bán buôn/ bán sỉ
+rating-star-full
+4.9
+Đã bán 89
+Chì Kẻ Viền Môi XIXI Lâu Trôi Chống Thấm Nước Chất Lì Mềm Mượtcustom-overlay
+Chì Kẻ Viền Môi XIXI Lâu Trôi Chống Thấm Nước Chất Lì Mềm Mượt
+₫
+19.500
+-50%
+Rẻ Vô Địch
+rating-star-full
+5.0
+Đã bán 97
+Sữa Tắm Lưu Huỳnh KABEINA 300ml Kháng Khuẩn, Loại Bỏ Mụn, Giảm Mụn Lưng, Giúp Trắng Da ( Hàng mới về)custom-overlay
+Sữa Tắm Lưu Huỳnh KABEINA 300ml Kháng Khuẩn, Loại Bỏ Mụn, Giảm Mụn Lưng, Giúp Trắng Da ( Hàng mới về)
+₫
+120.000
+rating-star-full
+5.0
+Đã bán 2
+Khăn ướt tẩy trang Bioaqua tiện lợi khi đi ra ngoài 25 tờ ( hàng mới)custom-overlay
+Khăn ướt tẩy trang Bioaqua tiện lợi khi đi ra ngoài 25 tờ ( hàng mới)
+₫
+25.000
+rating-star-full
+5.0
+Đã bán 22
+( Hàng mới) Tẩy tế bào chết da đầu và tóc JIORNIEE ngăn ngừa gàu giảm bết tóc 250gcustom-overlay
+( Hàng mới) Tẩy tế bào chết da đầu và tóc JIORNIEE ngăn ngừa gàu giảm bết tóc 250g
+₫
+95.000
+rating-star-full
+4.4
+Đã bán 34
+Kem dưỡng trắng và tái tạo da,  giúp da phục hồi trắng sáng, đều màucustom-overlay
+Kem dưỡng trắng và tái tạo da, giúp da phục hồi trắng sáng, đều màu
+₫
+85.000
+rating-star-full
+5.0
+Đã bán 4
+Xịt thơm quần áo mùi tạo mùi thơm và diệt khuẩn giảm mùi ẩm mốc thiếu nắng ( hàng mới về)custom-overlay
+Xịt thơm quần áo mùi tạo mùi thơm và diệt khuẩn giảm mùi ẩm mốc thiếu nắng ( hàng mới về)
+₫
+99.000
+Rẻ Vô Địch
+rating-star-full
+5.0
+Đã bán 4
+(CHUẨN THÁI) 01 Hủ Kem dưỡng Nách Q-nic Care Thái Lan (15gram)custom-overlay
+(CHUẨN THÁI) 01 Hủ Kem dưỡng Nách Q-nic Care Thái Lan (15gram)
+₫
+190.000
+Đã bán 3
+Tinh chất nhân sâm mọc tóc OMENFEE, serum Omenfee giảm rụng tóc, kích thích mọc tóc, cải thiện hói đầu, ngăn nấm da đầucustom-overlay
+Tinh chất nhân sâm mọc tóc OMENFEE, serum Omenfee giảm rụng tóc, kích thích mọc tóc, cải thiện hói đầu, ngăn nấm da đầu
+₫
+159.000
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 186
+Xịt Thơm Miệng MIZIYAN Hoa Quả Thơm miệng sạch sẽ vị đào, bạc hà, cam mát dung tích 15mlcustom-overlay
+Xịt Thơm Miệng MIZIYAN Hoa Quả Thơm miệng sạch sẽ vị đào, bạc hà, cam mát dung tích 15ml
+₫
+35.000
+rating-star-full
+4.8
+Đã bán 486
+Bút kẻ mắt lameila không lem không trôi hàng nội địa Trungcustom-overlay
+Bút kẻ mắt lameila không lem không trôi hàng nội địa Trung
+₫
+50.000
+rating-star-full
+4.8
+Đã bán 86
+(Hàng mới) Máy Uốn Mi Cong Bằng Điện Cao Cấp,Uốn Cong Lông Mi Tự Nhiên, Giữ Nếp Lâu Dài Bằng Nhiệt,Có Cổng Sạc USBcustom-overlay
+(Hàng mới) Máy Uốn Mi Cong Bằng Điện Cao Cấp,Uốn Cong Lông Mi Tự Nhiên, Giữ Nếp Lâu Dài Bằng Nhiệt,Có Cổng Sạc USB
+₫
+50.000
+rating-star-full
+4.8
+Đã bán 376
+(Hàng mới về) Kem Đất Sét Amide Làm Sạch Sâu Và Dưỡng Ẩm Cho Dacustom-overlay
+(Hàng mới về) Kem Đất Sét Amide Làm Sạch Sâu Và Dưỡng Ẩm Cho Da
+₫
+29.000
+rating-star-full
+5.0
+Đã bán 2
+Mặt Nạ Nâng Cơ SEOMOU Dưỡng Trắng Mịn Da, Cấp Ẩm, Mờ Thâm, Chống Lão Hóacustom-overlay
+Mặt Nạ Nâng Cơ SEOMOU Dưỡng Trắng Mịn Da, Cấp Ẩm, Mờ Thâm, Chống Lão Hóa
+₫
+75.000
+-50%
+rating-star-full
+4.7
+Đã bán 642
+Tinh Chất Peel da The Ordinary AHA 30%+BHA 2% Peeling Solution 30ml dành cho mọi loại da chính hãngcustom-overlay
+Tinh Chất Peel da The Ordinary AHA 30%+BHA 2% Peeling Solution 30ml dành cho mọi loại da chính hãng
+₫
+165.000
+rating-star-full
+4.9
+Đã bán 24
+Mặt nạ mắt bioaqua 60 miếng cấp ẩm chống nhăn, chống thâm quầng mắt nội địa Trungcustom-overlay
+Mặt nạ mắt bioaqua 60 miếng cấp ẩm chống nhăn, chống thâm quầng mắt nội địa Trung
+₫
+85.000
+rating-star-full
+5.0
+Đã bán 68
+Cọ Trang Điểm Son Môi Đầu Tròn Nhỏ Gọn Tiện Dụngcustom-overlay
+Cọ Trang Điểm Son Môi Đầu Tròn Nhỏ Gọn Tiện Dụng
+₫
+12.500
+-50%
+rating-star-full
+4.9
+Đã bán 153
+(Hàng mới) Bảng phấn mắt Dikalu 20 ô, phấn mắt nội địa trung, bảng mắt nhũ lì C6 - Sammi beautycustom-overlay
+(Hàng mới) Bảng phấn mắt Dikalu 20 ô, phấn mắt nội địa trung, bảng mắt nhũ lì C6 - Sammi beauty
+₫
+40.000
+rating-star-full
+5.0
+Đã bán 107
+Xịt Thơm Miệng Heyxi Vị Đào, Bạc hà Thơm Mátcustom-overlay
+Xịt Thơm Miệng Heyxi Vị Đào, Bạc hà Thơm Mát
+₫
+45.000
+rating-star-full
+5.0
+Đã bán 54
+Son kem lì Gogotales Rapt Zero Velvet Tint chất bùn siêu mịn môi lên màu chuẩn mỏng nhẹ GT464custom-overlay
+Son kem lì Gogotales Rapt Zero Velvet Tint chất bùn siêu mịn môi lên màu chuẩn mỏng nhẹ GT464
+₫
+75.000
+rating-star-full
+5.0
+Đã bán 14
+(Hàng mới về) Bút Kẻ Mắt Sweet Mint Siêu Mịn Chống Nước Lâu Trôi Cho Người Mới Bắt Đầucustom-overlay
+(Hàng mới về) Bút Kẻ Mắt Sweet Mint Siêu Mịn Chống Nước Lâu Trôi Cho Người Mới Bắt Đầu
+₫
+65.000
+rating-star-full
+5.0
+Đã bán 59
+Kem Dưỡng Trắng Da Huyết Rồng Linh Chi, Hoa Anh Đào 50g ( Hàng mới)custom-overlay
+Kem Dưỡng Trắng Da Huyết Rồng Linh Chi, Hoa Anh Đào 50g ( Hàng mới)
+₫
+35.000
+rating-star-full
+5.0
+Đã bán 4
+Giẩm thâm quầng mắt, bọng mắt The Ordinary Caffeine 5% + Egcg - 3×custom-overlay
+Giẩm thâm quầng mắt, bọng mắt The Ordinary Caffeine 5% + Egcg - 3×
+₫
+265.000
+rating-star-full
+4.8
+Đã bán 74
+Serum hôi nách INOD Huyền Phi khử hôi nách hôi chân hết thâm sáng dacustom-overlay
+Serum hôi nách INOD Huyền Phi khử hôi nách hôi chân hết thâm sáng da
+₫
+230.000
+rating-star-full
+4.7
+Đã bán 23
+Phấn phủ dạng bột Maffick, phấn phủ kiềm dầu mỏng nhẹ che khuyết điểmcustom-overlay
+Phấn phủ dạng bột Maffick, phấn phủ kiềm dầu mỏng nhẹ che khuyết điểm
+₫
+45.000
+rating-star-full
+5.0
+Đã bán 9
+Lược massage da đầu - Lược gội đầu kích thích mọc tóccustom-overlay
+Lược massage da đầu - Lược gội đầu kích thích mọc tóc
+₫
+25.000
+rating-star-full
+4.8
+Đã bán 648
+(Hàng mới) Kem dưỡng thể trắng da, nâng tone HUNMUI Body Creamcustom-overlay
+(Hàng mới) Kem dưỡng thể trắng da, nâng tone HUNMUI Body Cream
+₫
+75.000
+Đã bán 1
+(Phiên bản mới nhất) Combo 5 hộp kẹo mầm sâm tố nữ Xmax - Thảo mộc 37custom-overlay
+(Phiên bản mới nhất) Combo 5 hộp kẹo mầm sâm tố nữ Xmax - Thảo mộc 37
+₫
+480.000
+cod-icon
+rating-star-full
+5.0
+Đã bán 30
+Chì Kẻ Mày Double Effect Lameila 02 đầu không thấm nước- Bút kẻ lông mày Lameila Double Effectcustom-overlay
+Chì Kẻ Mày Double Effect Lameila 02 đầu không thấm nước- Bút kẻ lông mày Lameila Double Effect
+₫
+30.000
+rating-star-full
+4.9
+Đã bán 50
+Phấn Phủ lameila - Phấn Nền Che Khuyết Kiềm Dầu Che Phủ Hoàn Hảo Mịn Lì Lâu Trôi nội địa trung Lameila P39custom-overlay
+Phấn Phủ lameila - Phấn Nền Che Khuyết Kiềm Dầu Che Phủ Hoàn Hảo Mịn Lì Lâu Trôi nội địa trung Lameila P39
+₫
+85.000
+rating-star-full
+5.0
+Đã bán 9
+Son lì HERORANGE mềm mịn như nhung chống thấm nước chống khô môi lâu trôicustom-overlay
+Son lì HERORANGE mềm mịn như nhung chống thấm nước chống khô môi lâu trôi
+₫
+95.000
+rating-star-full
+4.5
+Đã bán 39
+Gel đào thải mụn nghệ đỏ YONGU, gel nghệ đỏ Yongu giảm mụn lưng, dày sừng, viêm nang lông giảm thâm ((Tặng bao lì xì)custom-overlay
+Gel đào thải mụn nghệ đỏ YONGU, gel nghệ đỏ Yongu giảm mụn lưng, dày sừng, viêm nang lông giảm thâm ((Tặng bao lì xì)
+₫
+180.000
+rating-star-full
+4.8
+Đã bán 16
+(Hàng mới về) Son Môi GOGOTALES Dưỡng Ẩm Chất Son Mịn Như Nhungcustom-overlay
+(Hàng mới về) Son Môi GOGOTALES Dưỡng Ẩm Chất Son Mịn Như Nhung
+₫
+80.000
+Đã bán 3
+(Hàng mới về) Son kem lì GOGO TALES Powder Yarn Defocus Lip Glaze mềm mướt mịn lì lâu trôi Ice Cream Lip Puree GOGOcustom-overlay
+(Hàng mới về) Son kem lì GOGO TALES Powder Yarn Defocus Lip Glaze mềm mướt mịn lì lâu trôi Ice Cream Lip Puree GOGO
+₫
+105.000
+Đã bán 1
+Mascara Siêu Mảnh tơi mi Lameila vỏ Hồng A140custom-overlay
+Mascara Siêu Mảnh tơi mi Lameila vỏ Hồng A140
+₫
+90.000
+rating-star-full
+4.7
+Đã bán 23
+Bộ 5 mảnh Set Kẹp Tóc Đính Đá Phong Cách Hàn Quốc Cho Nữ siêu xinhcustom-overlay
+Bộ 5 mảnh Set Kẹp Tóc Đính Đá Phong Cách Hàn Quốc Cho Nữ siêu xinh
+₫
+36.000
+rating-star-full
+4.6
+Đã bán 28
+Bình xịt chống nắng Maigoole SPF50 chai 150ml chính hãng - Chống nắng body, dưỡng trắng nâng tone,,,,,custom-overlay
+Bình xịt chống nắng Maigoole SPF50 chai 150ml chính hãng - Chống nắng body, dưỡng trắng nâng tone,,,,,
+₫
+120.000
+rating-star-full
+5.0
+Đã bán 6
+Kem dưỡng da tay chiết xuất Hyaluronic Acid HIH 40ml dưỡng ẩm và phục hồi da tay PVN3459custom-overlay
+Kem dưỡng da tay chiết xuất Hyaluronic Acid HIH 40ml dưỡng ẩm và phục hồi da tay PVN3459
+₫
+150.000
+rating-star-full
+5.0
+Đã bán 52
+Bộ Trang Điểm Lameila 20 món gồm Kem BB + Phấn Phủ + Bút Kẻ Mắt + Mascara + Bút Kẻ Mắt + 14 món kháccustom-overlay
+Bộ Trang Điểm Lameila 20 món gồm Kem BB + Phấn Phủ + Bút Kẻ Mắt + Mascara + Bút Kẻ Mắt + 14 món khác
+₫
+380.000
+rating-star-full
+4.8
+Đã bán 633
+(Hàng mới về) Phấn Mắt Xixi 6 Màu Tùy Chọn Giúp Bắt Sángcustom-overlay
+(Hàng mới về) Phấn Mắt Xixi 6 Màu Tùy Chọn Giúp Bắt Sáng
+₫
+35.000
+rating-star-full
+5.0
+Đã bán 10
+Tinh Chất Hút Nám Tàn Nhang Đồi Mồi Houmal, Tái Tạo Da, Chống Lão Hóa, Loại Bỏ Nám Tàn Nhang, Đồi Mồi, Dung Tích 50 MLcustom-overlay
+Tinh Chất Hút Nám Tàn Nhang Đồi Mồi Houmal, Tái Tạo Da, Chống Lão Hóa, Loại Bỏ Nám Tàn Nhang, Đồi Mồi, Dung Tích 50 ML
+₫
+150.000
+rating-star-full
+5.0
+Đã bán 7
+Bảng phấn mắt 9 ô Coco Venus Dikalu kim tuyến lấp lánhcustom-overlay
+Bảng phấn mắt 9 ô Coco Venus Dikalu kim tuyến lấp lánh
+₫
+90.000
+rating-star-full
+4.9
+Đã bán 88
+Bảng Phấn Tạo Khối / Bắt Sáng / Má Hồng 04 ô Sweet Mint Tự Nhiên Bền Màu ( hàng mới về)custom-overlay
+Bảng Phấn Tạo Khối / Bắt Sáng / Má Hồng 04 ô Sweet Mint Tự Nhiên Bền Màu ( hàng mới về)
+₫
+35.000
+rating-star-full
+4.5
+Đã bán 12
+Combo 2 Hộp (10 miếng) Mặt Nạ Nâng Cơ SEOMOU Dưỡng Trắng Mịn Da, Cấp Ẩm, Mờ Thâm, Chống Lão Hóacustom-overlay
+Combo 2 Hộp (10 miếng) Mặt Nạ Nâng Cơ SEOMOU Dưỡng Trắng Mịn Da, Cấp Ẩm, Mờ Thâm, Chống Lão Hóa
+₫
+175.000
+-50%
+rating-star-full
+4.7
+Đã bán 290
+(Mẫu mới - Chuẩn Thái) Sữa Dưỡng Thể Trắng Da, Dưỡng ẩm Alpha Arbutin 3 Plus Collagen Lotion 500ml Thái lanacustom-overlay
+(Mẫu mới - Chuẩn Thái) Sữa Dưỡng Thể Trắng Da, Dưỡng ẩm Alpha Arbutin 3 Plus Collagen Lotion 500ml Thái lana
+₫
+199.000
+Cọ Đắp Mặt Nạ Silicon Trang Điểm Đắp Nạ Spa, Chổi quét mask cao cấpcustom-overlay
+Cọ Đắp Mặt Nạ Silicon Trang Điểm Đắp Nạ Spa, Chổi quét mask cao cấp
+₫
+19.000
+rating-star-full
+5.0
+Đã bán 11
+Dung Dịch Vệ Sinh Phụ Nữ Ume Tía Tô, Ddvs Ume Tía Tô Chính Hãng Giúp Khử Mùi Vùng Kín 150ml VS01custom-overlay
+Dung Dịch Vệ Sinh Phụ Nữ Ume Tía Tô, Ddvs Ume Tía Tô Chính Hãng Giúp Khử Mùi Vùng Kín 150ml VS01
+₫
+250.000
+cod-icon
+rating-star-full
+4.8
+Đã bán 39
+Xịt dưỡng thể trắng da TWG, TWG giảm mụn lưng, dưỡng ẩm, cải thiện dày sừng nang lôngcustom-overlay
+Xịt dưỡng thể trắng da TWG, TWG giảm mụn lưng, dưỡng ẩm, cải thiện dày sừng nang lông
+₫
+180.000
+rating-star-full
+4.6
+Đã bán 77
+[Giao mẫu ngẫu nhiên] Miếng Che Mắt Chống Chói Mắt Miếng che mắt ngủ bịt mắt ngủ hình thú dễ thươngcustom-overlay
+[Giao mẫu ngẫu nhiên] Miếng Che Mắt Chống Chói Mắt Miếng che mắt ngủ bịt mắt ngủ hình thú dễ thương
+₫
+25.000
+-50%
+rating-star-full
+5.0
+Đã bán 13
+(Rẻ Vô Địch) Phấn Phủ Bột Kiềm Dầu Che Khuyết Điểm Lameila Dạng Bộtcustom-overlay
+(Rẻ Vô Địch) Phấn Phủ Bột Kiềm Dầu Che Khuyết Điểm Lameila Dạng Bột
+₫
+65.000
+rating-star-full
+5.0
+Đã bán 10
+(Chuẩn Hãng) Kem bôi nấm ngứa Dego Pharma - Hộp 30gcustom-overlay
+(Chuẩn Hãng) Kem bôi nấm ngứa Dego Pharma - Hộp 30g
+₫
+250.000
+rating-star-full
+5.0
+Đã bán 9
+Heart Beauty Cải Thiện Tình Trạng Suy Giảm Nội Tiết Tố Nữ ( Hộp nhỏ)custom-overlay
+Heart Beauty Cải Thiện Tình Trạng Suy Giảm Nội Tiết Tố Nữ ( Hộp nhỏ)
+₫
+260.000
+rating-star-full
+4.8
+Đã bán 32
+Kem Thanh Che Khuyết Điểm LAMEILA Nhiệt Đới Mịn Lì Tiệp Mọi Tông Da Kiểm Soát Dầucustom-overlay
+Kem Thanh Che Khuyết Điểm LAMEILA Nhiệt Đới Mịn Lì Tiệp Mọi Tông Da Kiểm Soát Dầu
+₫
+95.000
+rating-star-full
+4.8
+Đã bán 18
+( Hàng mới) Kem Bơ YAQINUO Dưỡng Ẩm Săn Chắc Làm Mờ Nếp Nhăn và Quầng Thâm Nội Địa Trungcustom-overlay
+( Hàng mới) Kem Bơ YAQINUO Dưỡng Ẩm Săn Chắc Làm Mờ Nếp Nhăn và Quầng Thâm Nội Địa Trung
+₫
+120.000
+rating-star-full
+5.0
+Đã bán 5
+Kem nền trang điểm Lameila Bb creamcustom-overlay
+Kem nền trang điểm Lameila Bb cream
+₫
+95.000
+rating-star-full
+5.0
+Đã bán 7
+Kem Ủ Tóc Pinky Pinky Dưỡng Tóc Siêu Mềm Mượt Nội Địa Trung Phục Hồi Tóc Hư Tổn Ủ Tóc Collagen Mặt Nạ Hấp Dầu Lylyacustom-overlay
+Kem Ủ Tóc Pinky Pinky Dưỡng Tóc Siêu Mềm Mượt Nội Địa Trung Phục Hồi Tóc Hư Tổn Ủ Tóc Collagen Mặt Nạ Hấp Dầu Lylya
+₫
+150.000
+rating-star-full
+5.0
+Đã bán 49
+(Hàng mới về ) Phấn bắt sáng tạo khối 4 ô Gogo Tales The Sunset Phấn highlight bắt sáng chính hãngcustom-overlay
+(Hàng mới về ) Phấn bắt sáng tạo khối 4 ô Gogo Tales The Sunset Phấn highlight bắt sáng chính hãng
+₫
+99.000
+rating-star-full
+4.8
+Đã bán 22
+Son môi lì mịn mượt như nhung lâu trôicustom-overlay
+Son môi lì mịn mượt như nhung lâu trôi
+₫
+95.000
+rating-star-full
+4.0
+Đã bán 6
+[Bạn mới nhập COSHBM -50% đơn 0Đ] Nước Hoa Karri lưu hương cực lâu A116custom-overlay
+[Bạn mới nhập COSHBM -50% đơn 0Đ] Nước Hoa Karri lưu hương cực lâu A116
+₫
+120.000
+rating-star-full
+4.8
+Đã bán 13
+COMBO 5 Bao Lì xì 2024 tết GIÁP THÌN (Rồng Chibi Dễ Thương) đem lại may mắn tài lộc chất liệu dày bề mặt phản quangcustom-overlay
+COMBO 5 Bao Lì xì 2024 tết GIÁP THÌN (Rồng Chibi Dễ Thương) đem lại may mắn tài lộc chất liệu dày bề mặt phản quang
+₫
+15.000
+Rẻ Vô Địch
+rating-star-full
+4.9
+Đã bán 2,3k
+(Siêu hot) Thanh Lăn Massage Mắt JOMTAM Xóa Tan Thâm Mắt,Bọng Mắt, Giảm Nếp Nhăncustom-overlay
+(Siêu hot) Thanh Lăn Massage Mắt JOMTAM Xóa Tan Thâm Mắt,Bọng Mắt, Giảm Nếp Nhăn
+₫
+120.000
+rating-star-full
+5.0
+Đã bán 6
+( Siêu hot hit) Set 6 Cây Son Kem Gấu Trúc Magic Casa cực kỳ mềm mạicustom-overlay
+( Siêu hot hit) Set 6 Cây Son Kem Gấu Trúc Magic Casa cực kỳ mềm mại
+₫
+120.000
+rating-star-full
+5.0
+Đã bán 15
+Bảng Phấn Má Hồng Sweet Mint 2 Màu Phấn Mịn Nhẹ Nhàng Trang Điểm Tự Nhiên ( hàng mới về)custom-overlay
+Bảng Phấn Má Hồng Sweet Mint 2 Màu Phấn Mịn Nhẹ Nhàng Trang Điểm Tự Nhiên ( hàng mới về)
+₫
+35.000
+rating-star-full
+5.0
+Đã bán 4
+Mặt nạ sủi bọt thải độc cấp ẩm dưỡng trắng da mask GINBI Chính Hãng nội địa Trungcustom-overlay
+Mặt nạ sủi bọt thải độc cấp ẩm dưỡng trắng da mask GINBI Chính Hãng nội địa Trung
+₫
+35.000
+rating-star-full
+5.0
+Đã bán 8
+(Hàng mới về) Bảng mắt 8 ô Gogotales Garden Bear GT405 Màu Kim Tuyến Cho Người Mới Bắt Đầucustom-overlay
+(Hàng mới về) Bảng mắt 8 ô Gogotales Garden Bear GT405 Màu Kim Tuyến Cho Người Mới Bắt Đầu
+₫
+200.000
+rating-star-full
+5.0
+Đã bán 2
+Bảng Phấn Mắt 7 Ô GOGO TALES Oẳn Tù Tì Tuổi Thơ, Youth Private Languagecustom-overlay
+Bảng Phấn Mắt 7 Ô GOGO TALES Oẳn Tù Tì Tuổi Thơ, Youth Private Language
+₫
+130.000
+Gel khóa màu son siêu bền màu T2custom-overlay
+Gel khóa màu son siêu bền màu T2
+₫
+65.000
+rating-star-full
+5.0
+Đã bán 84

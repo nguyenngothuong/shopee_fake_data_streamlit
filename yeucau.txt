@@ -1,0 +1,120 @@
+Đây là kế hoạch tôi sẽ đề xuất:
+Phân tích yêu cầu:
+Tạo dữ liệu giả định đơn hàng Shopee ngành mỹ phẩm
+Dữ liệu Việt Nam (danh sách khách hàng là người Việt)
+Output trả về file CSV
+Chấp nhận trùng lặp thông tin đơn hàng, khách hàng
+Mỗi dòng chứa thông tin đầy đủ về sản phẩm trong đơn hàng
+Cần 50,000 dòng dữ liệu
+Metadata phải bằng tiếng Việt
+Tập trung vào phân tích hoàn hủy
+Cấu trúc dữ liệu sẽ tạo:
+Thông tin đơn hàng: Mã đơn hàng, ngày đặt, ngày giao, phương thức thanh toán, tổng giá trị...
+Thông tin khách hàng: Tên, số điện thoại, địa chỉ, email...
+Thông tin sản phẩm: Tên sản phẩm, mã SKU, giá, số lượng, thương hiệu...
+Thông tin trạng thái đơn hàng: Hoàn thành, Đã hủy, Hoàn trả...
+Thông tin lý do hoàn hủy: Chi tiết lý do nếu đơn hàng bị hủy hoặc hoàn trả
+Metrics khác: Đánh giá, thời gian xử lý đơn...
+Định nghĩa các metadata bằng tiếng Việt:
+Trạng thái đơn hàng: Đã giao, Đã hủy, Hoàn trả, Đang giao, Đang xử lý...
+Lý do hoàn hủy: Sản phẩm không đúng mô tả, Sản phẩm lỗi, Đổi ý, Giao hàng chậm...
+Phương thức thanh toán: COD, Thẻ tín dụng, Ví điện tử...
+Đơn vị vận chuyển: Giao hàng nhanh, Giao hàng tiết kiệm, J&T, Viettel Post...
+Thông tin sản phẩm: Danh sách mỹ phẩm từ dữ liệu đã cung cấp
+Chiến lược tạo dữ liệu:
+Sử dụng thư viện Faker để tạo thông tin cơ bản
+Tạo metadata tiếng Việt từ danh sách có sẵn
+Xây dựng logic phân bố hợp lý cho trạng thái đơn hàng và lý do hoàn hủy
+Sử dụng dữ liệu sản phẩm từ danh sách đã cung cấp
+Đảm bảo phân bố hợp lý cho các thuộc tính dữ liệu
+Thực hiện:
+Thiết lập các mảng metadata tiếng Việt
+Cài đặt logic tạo dữ liệu
+Tạo 50,000 dòng dữ liệu
+Xuất ra file CSV
+Bây giờ tôi sẽ tạo một kế hoạch triển khai rõ ràng để người dùng có thể hiểu được cấu trúc dữ liệu và cách thức thực hiện.
+</think>
+Dựa trên yêu cầu của bạn, tôi đề xuất kế hoạch tạo dữ liệu đơn hàng Shopee mỹ phẩm giả định như sau:
+Phân tích yêu cầu
+Tạo 50.000 dòng dữ liệu đơn hàng Shopee trong lĩnh vực mỹ phẩm
+Mục đích phân tích hàng hoàn hủy
+Dữ liệu Việt Nam, metadata tiếng Việt
+Output là file CSV
+Chấp nhận trùng lặp thông tin đơn hàng và khách hàng
+Mỗi dòng chứa thông tin đầy đủ về sản phẩm trong đơn hàng
+Cấu trúc dữ liệu
+Mỗi dòng trong CSV sẽ có những trường sau:
+Thông tin đơn hàng:
+Mã đơn hàng
+Ngày đặt hàng
+Ngày giao/hủy/hoàn
+Trạng thái đơn hàng
+Lý do hoàn hủy (nếu có)
+Phương thức thanh toán
+Đơn vị vận chuyển
+Phí vận chuyển
+Mã giảm giá (nếu có)
+Thông tin khách hàng:
+Họ tên
+Số điện thoại
+Email
+Địa chỉ (Tỉnh/Thành phố, Quận/Huyện, Phường/Xã)
+Thông tin sản phẩm:
+Tên sản phẩm
+Mã sản phẩm
+Thương hiệu
+Giá gốc
+Giá sau giảm
+Số lượng
+Đánh giá sao (nếu đơn hàng hoàn thành)
+Danh mục sản phẩm
+Metadata tiếng Việt
+Tôi sẽ xây dựng các mảng dữ liệu sau:
+Trạng thái đơn hàng:
+Đã giao thành công
+Đã hủy
+Đã hoàn trả
+Đang giao
+Đang xử lý
+Lý do hoàn hủy:
+Sản phẩm không đúng mô tả
+Sản phẩm bị lỗi/hỏng
+Giao hàng quá chậm
+Đổi ý không muốn mua nữa
+Sản phẩm hết hạn sử dụng
+Màu sắc/mùi hương khác với mong đợi
+Đặt nhầm sản phẩm
+Sản phẩm không phù hợp với làn da
+Gặp vấn đề về kích thước/dung tích
+Tìm được sản phẩm tốt hơn/rẻ hơn
+Phương thức thanh toán:
+Thanh toán khi nhận hàng (COD)
+Thẻ tín dụng/ghi nợ
+Ví ShopeePay
+Chuyển khoản ngân hàng
+Thanh toán qua Momo
+Đơn vị vận chuyển:
+Giao hàng nhanh
+Giao hàng tiết kiệm
+J&T Express
+Viettel Post
+Ninja Van
+Sản phẩm:
+Danh sách sản phẩm từ dữ liệu đã cung cấp, bao gồm:
+Tên sản phẩm
+Giá gốc
+Giá sau giảm giá (nếu có)
+Thương hiệu (XIXI, GOGO TALES, Colorkey, Flowery, HUNMUI, v.v.)
+Loại sản phẩm (phấn má hồng, son môi, mặt nạ, kem dưỡng, v.v.)
+Thành phố/Tỉnh Việt Nam và các quận/huyện tương ứng
+Phân bố dữ liệu
+Đơn hàng đã giao thành công: ~70%
+Đơn hàng bị hủy/hoàn: ~25% (tập trung vào đây để phân tích)
+Đơn hàng đang giao/xử lý: ~5%
+Cách tạo dữ liệu
+Sử dụng Python với thư viện Faker để:
+Tạo thông tin khách hàng Việt Nam
+2. Tạo thông tin đơn hàng với phân bố hợp lý
+Gán ngẫu nhiên sản phẩm mỹ phẩm từ danh sách
+Áp dụng logic nghiệp vụ (như lý do hoàn hủy chỉ áp dụng cho đơn bị hủy/hoàn)
+Xuất dữ liệu ra file CSV
