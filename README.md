@@ -151,3 +151,6 @@ Theo [Báo cáo của BigSeller](https://www.bigseller.com/blog/articleDetails/1
 - [E-commerce Return Best Practices Comprehensive Guide](https://redstagfulfillment.com/best-practices-e-commerce-returns/)
 - [Seasonal Refund Rates E-Commerce Explained](https://thoughtmetric.io/define/refund-rate)
 - [Logistic Impact on Returns Strategies for Retailers](https://www.sendcloud.co.uk/how-to-reduce-returns-in-ecommerce/)
+
+
+Link source data Shopee: https://drive.google.com/file/d/1HsMXwFLlMZlaTuh63hnFjmsdDmQpyecf/view?usp=sharing
