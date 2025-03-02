@@ -150,5 +150,4 @@ Theo [Báo cáo của BigSeller](https://www.bigseller.com/blog/articleDetails/1
 - [E-commerce Return Strategies Ten Effective Methods](https://www.sendcloud.com/how-to-reduce-returns-in-ecommerce/)
 - [E-commerce Return Best Practices Comprehensive Guide](https://redstagfulfillment.com/best-practices-e-commerce-returns/)
 - [Seasonal Refund Rates E-Commerce Explained](https://thoughtmetric.io/define/refund-rate)
-- [Logistic Impact on Returns Strategies for Retailers](https://www.sendcloud.co.uk/how-to-reduce-returns-in-ecommerce/)#   s h o p e e _ f a k e _ d a t a _ s t r e a m l i t  
- 
+- [Logistic Impact on Returns Strategies for Retailers](https://www.sendcloud.co.uk/how-to-reduce-returns-in-ecommerce/)
